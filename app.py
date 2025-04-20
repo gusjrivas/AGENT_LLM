@@ -2,7 +2,6 @@
 """
 app.py: Solución RAG genérica con LangGraph y Streamlit
 para comparar dos CVs cualesquiera.
-REFACTORIZADO para importación y con corrección de flujo de ejecución en Streamlit.
 """
 
 # --- 1. Importaciones Necesarias ---
