@@ -2,7 +2,7 @@
 
 Este proyecto implementa una aplicación web interactiva que permite a los usuarios comparar dos Currículums Vitae (CVs) en formato PDF. Utiliza un agente inteligente construido con LangChain y LangGraph para responder preguntas sobre el contenido de los CVs, dirigiendo las consultas al documento correcto según se mencione a una persona específica o se realice una pregunta general sobre ambos.
 
-**Video Demostrativo:** <video controls src="https://github.com/gusjrivas/AGENT_LLM/blob/main/video/2025-04-19_agent_cv.mp4" title="C:\repositorio\AGENT_LLM\video\2025-04-19_agent_cv.mp4)"></video>
+**Video Demostrativo:** <"https://github.com/gusjrivas/AGENT_LLM/blob/main/video/2025-04-19_agent_cv.mp4
 
 
 ## Características Principales
