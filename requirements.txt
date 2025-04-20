@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core frameworks
+streamlit>=1.30.0,<2.0.0
+langchain>=0.1.0,<0.2.0
+langgraph>=0.0.30,<0.1.0
+
+# LangChain integrations and components
+langchain-openai>=0.0.5,<0.2.0
+langchain-community>=0.0.20,<0.1.0
+
+# Document loading and processing
+pypdf>=3.15.0,<4.0.0           # PDF loader dependency
+tiktoken>=0.5.0,<0.6.0         # Tokenizer used by LangChain/OpenAI
+
+# Vector Store
+chromadb>=0.4.20,<0.5.0
+
+# Utilities
+python-dotenv>=1.0.0,<2.0.0     # For loading .env files (optional but common)
+requests>=2.31.0,<3.0.0        # Often an indirect dependency, good to specify
+
+# Optional for graph visualization (visualize_agent.py)
+# pygraphviz>=1.11,<2.0          # Requires system-level graphviz installation
