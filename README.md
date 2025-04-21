@@ -4,7 +4,7 @@ Este proyecto implementa una aplicación web interactiva que permite a los usuar
 
 **Video Demostrativo:** 
 
-"https://github.com/gusjrivas/AGENT_LLM/blob/main/video/2025-04-19_agent_cv.mp4
+[https://github.com/gusjrivas/AGENT_LLM/blob/main/video/2025-04-19_agent_cv.mp4](https://github.com/gusjrivas/AGENT_LLM/blob/main/video/2025-04-19_agente_cv.mp4)
 
 
 ## Características Principales
